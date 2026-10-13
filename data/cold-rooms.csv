@@ -1,0 +1,11 @@
+zone_id,zone_name,terminal,temperature_limit,active,revision
+CR-01,  Aurora Bay ,Pier 4,4.0,yes,2
+CR-02,Brine Store,Wharf 7,2.5,yes,1
+CR-03,Archive Locker,Pier 2,5.0,no,3
+CR-02,Brine Store East,Wharf 7,2.5,yes,2
+CR-04,Net Shed,Quay 1,7.0,yes,1
+CR-05,Invalid Limit,Pier 9,8,yes,7
+CR-06,Overflow Chill,Quay 3,1.0,yes,1
+CR-06,Overflow Chill,Quay 3,1.0,no,2
+CR-07,  Pilot Cache  ,Pier 1,-2.0,yes,1
+CR-01,Aurora Bay North,Pier 4,4.0,yes,1

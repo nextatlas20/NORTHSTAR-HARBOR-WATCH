@@ -1,0 +1,12 @@
+[
+  {"zone_id":"CR-01","captured_at":"2071-08-12T17:40:00Z","temperature":4.0,"door":"sealed","revision":3},
+  {"zone_id":"CR-02","captured_at":"2071-08-12T17:50:00Z","temperature":2.5,"door":"open","revision":4},
+  {"zone_id":"CR-04","captured_at":"2071-08-12T17:30:00Z","temperature":6.7,"door":"sealed","revision":1},
+  {"zone_id":"CR-04","captured_at":"2071-08-12T18:30:00Z","temperature":6.0,"door":"sealed","revision":2},
+  {"zone_id":"CR-07","captured_at":"2071-08-12T17:55:00Z","temperature":-2.1,"door":"sealed","revision":5},
+  {"zone_id":"CR-07","captured_at":"2071-08-12T17:59:00Z","temperature":-1.5,"door":"sealed","revision":5},
+  {"zone_id":"CR-03","captured_at":"2071-08-12T17:00:00Z","temperature":3.0,"door":"sealed","revision":8},
+  {"zone_id":"CR-01","captured_at":"bad","temperature":1.0,"door":"sealed","revision":9},
+  {"zone_id":"CR-02","captured_at":"2071-08-12T17:00:00Z","temperature":true,"door":"sealed","revision":8},
+  {"zone_id":"CR-09","captured_at":"2071-08-12T17:00:00Z","temperature":1.0,"door":"sealed","revision":1}
+]
