@@ -1,0 +1,5 @@
+zone_id	zone_name	terminal	temperature_limit	captured_at	temperature	door	state
+CR-01	Aurora Bay	Pier 4	4.0	2071-08-12T17:40:00Z	4.0	sealed	normal
+CR-02	Brine Store East	Wharf 7	2.5	2071-08-12T17:50:00Z	2.5	open	alert
+CR-04	Net Shed	Quay 1	7.0	missing	missing	missing	alert
+CR-07	Pilot Cache	Pier 1	-2.0	2071-08-12T17:59:00Z	-1.5	sealed	alert
